@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "apkUrl": "https://github.com/Blackzth11/bkz-tv-app/releases/latest/download/BKZ_TV.apk",
-  "notes": "- เรื่องย่อ คะแนน แนวหนัง และนักแสดงจาก TMDB\n- ภาพฉากจากหนังเป็นพื้นหลังหน้าเรื่อง\n- แบนเนอร์หน้าแรกแสดงเรื่องย่อ"
+  "notes": "- ใส่รหัสผ่านก่อนเข้าใช้ (ครั้งเดียวต่อเครื่อง)\n- เมนูซ้ายจัดกลุ่มใหม่ ไม่เบียด\n- แก้ไอคอนที่แสดงผิดบนทีวี"
 }
