@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "apkUrl": "https://github.com/Blackzth11/bkz-tv-app/releases/latest/download/BKZ_TV.apk",
-  "notes": "- ช่องทีวีไทยอัปเดตเองทุกวันจาก iptv36 (รองรับไฟล์ M3U)\n- เพิ่มแหล่งเสริมได้อีก 1 ลิงก์ รวมกับแหล่งหลัก\n- ช่อง 7 / Nation / ไทยรัฐ ใช้ Referer ถูกต้อง\n- เจอBUGบอกด้วยนะครับ"
+  "notes": "- รองรับเพลย์ลิสต์ขนาดใหญ่ (หลายพันเรื่อง) เก็บสำรองเป็นไฟล์ในเครื่อง\n- \"ดูต่อ\" และ \"รายการของฉัน\" บันทึกได้เสมอแม้หนังเยอะ"
 }
