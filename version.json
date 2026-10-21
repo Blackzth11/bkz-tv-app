@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.10",
+  "versionCode": 14,
+  "versionName": "1.10.1",
   "apkUrl": "https://github.com/Blackzth11/bkz-tv-app/releases/latest/download/BKZ_TV.apk",
-  "notes": "- หมวดใหม่ การ์ตูน Animation (ANIME, Anime-Forever, Anime-Zone ฯลฯ)\n- สารคดีอยู่ในเมนูทีวี (สารคดีออนไลน์ / สารคดีชุด)\n- ช่องทีวีเรียงตามเลขช่อง ช่องเดียวกันอยู่ติดกัน\n- ระบบเปิดใช้งานผูกเครื่อง + ดูเครื่องออนไลน์"
+  "notes": "- แก้ทีวีขึ้นสกรีนเซฟเวอร์ระหว่างดู: จอจะสว่างค้างตลอดตอนกำลังเล่น (กดหยุดไว้ทีวียังพักจอได้ตามปกติ)"
 }
