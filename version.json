@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "2.6.1",
+  "versionCode": 29,
+  "versionName": "2.6.2",
   "apkUrl": "https://github.com/Blackzth11/bkz-tv-app/releases/latest/download/BKZ_TV.apk",
-  "notes": "- แก้: คลิกแถบหมวดย่อย (ฟุตบอล ฯลฯ) แล้วเด้งกลับแถบเดิม\n- โฉมใหม่ BB24HD-VIP: แบนเนอร์เต็มจอ · เมนูหุบเป็นไอคอน\n- หน้าแรก: ดูต่อ · ฟุตบอลแมตช์ · หนังใหม่ · ป้าย NEW"
+  "notes": "- แก้: ดูเสร็จกดกลับแล้วแถบเด้งกลับไปแถบแรก\n- แก้: คลิกแถบหมวดย่อยแล้วเด้งกลับแถบเดิม\n- โฉมใหม่ BB24HD-VIP"
 }
