@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "2.6.2",
+  "versionCode": 30,
+  "versionName": "2.7",
   "apkUrl": "https://github.com/Blackzth11/bkz-tv-app/releases/latest/download/BKZ_TV.apk",
-  "notes": "- แก้: ดูเสร็จกดกลับแล้วแถบเด้งกลับไปแถบแรก\n- แก้: คลิกแถบหมวดย่อยแล้วเด้งกลับแถบเดิม\n- โฉมใหม่ BB24HD-VIP"
+  "notes": "- รองรับรหัสเปิดใช้งานแบบมีวันหมดอายุ (3 วัน / 7 วัน / 1 เดือน)\n- ดูวันหมดอายุได้ในหน้าตั้งค่า\n- แก้: ดูเสร็จกดกลับแล้วแถบเด้งกลับแถบแรก"
 }
