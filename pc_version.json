@@ -1,6 +1,6 @@
 {
-  "version": "1.2",
+  "version": "1.2.1",
   "url": "https://github.com/Blackzth11/bkz-tv-app/releases/download/pc/BB24HD-VIP_PC.exe",
-  "sha256": "808ddf2816b7e3aa4d3584e952e8a133dd0a7a7ae0c8dccc2e7a6e486ef10d31",
-  "notes": "- 🧸 AnimeRuka เล่นในหน้าต่างเดียว เล่นเองไม่ต้องคลิก · ◀ กลับ แล้วอยู่หน้าเดิม\n- ช่องผ่านเว็บ (ทีวี/บอลสด) เลือกแล้วเล่นทันที\n- บล็อกโฆษณาเด้ง"
+  "sha256": "32e0e0f183f948d9084a2417d1511e9a6d4eae68cdf5a1c4304a4f5c53610dc7",
+  "notes": "- แก้: กด ◀ กลับ จาก AnimeRuka แล้วขึ้น forbidden\n- 🧸 AnimeRuka เล่นในหน้าต่างเดียว เล่นเองไม่ต้องคลิก\n- ช่องผ่านเว็บ เลือกแล้วเล่นทันที · บล็อกโฆษณาเด้ง"
 }
