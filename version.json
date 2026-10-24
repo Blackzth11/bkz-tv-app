@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "2.8",
+  "versionCode": 34,
+  "versionName": "2.8.1",
   "apkUrl": "https://github.com/Blackzth11/bkz-tv-app/releases/latest/download/BKZ_TV.apk",
-  "notes": "- ใหม่: 🧸 AnimeRuka (ซับไทย / พากย์ไทย / เดอะมูฟวี่ / ตารางฉาย)\n- ระหว่างดู: ▲▼ ตอนก่อน/ถัดไป · OK = เล่น/หยุด"
+  "notes": "- 🧸 AnimeRuka ไม่กระพริบหน้าเว็บก่อนเล่นแล้ว\n- เมนู AnimeRuka อยู่บนการ์ตูน · 📡 ทีวี: ทีวีผ่านเว็บ เป็นแถบแรก"
 }
