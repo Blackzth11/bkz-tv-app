@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "2.9.2",
+  "versionCode": 38,
+  "versionName": "2.10",
   "apkUrl": "https://github.com/Blackzth11/bkz-tv-app/releases/latest/download/BKZ_TV.apk",
-  "notes": "- แก้: ⭐ รายการของฉัน ไม่ขึ้นตอนใหม่ (เว็บเปลี่ยนชื่อเรื่องตอนเพิ่มตอน เช่น EP.1-4 → EP.1-13)\n- รายการของฉันใช้ชุดที่ตอนครบที่สุดเสมอ"
+  "notes": "- 📺 ซีรีส์: แถบใหม่ SERIES 2026 / SERIES All 1-5 (อัปเดตตามลิสต์ต้นทาง)\n- 🔞 หนังผู้ใหญ่: เปิดได้ที่ ⚙ ตั้งค่า (ต้องใส่รหัส) แถบ 18+ ย้ายมาไว้ที่นี่"
 }
