@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "2.10.1",
+  "versionCode": 40,
+  "versionName": "2.10.2",
   "apkUrl": "https://github.com/Blackzth11/bkz-tv-app/releases/latest/download/BKZ_TV.apk",
-  "notes": "- 📺 ซีรีส์: รวมเป็นแถบเดียว SERIES ข้างในเป็นโฟลเดอร์ SERIES 2026 / All 1-5"
+  "notes": "- แก้: บางกล่อง (แรมน้อย) เด้งออกหลังใส่รหัส\n- รองรับ Android รุ่นเก่าดีขึ้น"
 }
