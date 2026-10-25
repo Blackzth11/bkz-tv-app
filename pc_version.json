@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "url": "https://github.com/Blackzth11/bkz-tv-app/releases/download/pc/BB24HD-VIP_PC.exe",
-  "sha256": "1ac187621ea0da8fbf1969204a056e85c933125b1acf54a66b9b4f67799a955c",
-  "notes": "- 📺 ซีรีส์: รวมเป็นแถบเดียว SERIES ข้างในเป็นโฟลเดอร์ SERIES 2026 / All 1-5"
+  "sha256": "a037dc991f845bc374b5a4c20ea36ce415e6a76213bb9173464d667cb019c85b",
+  "notes": "- แก้: บางเรื่องขึ้นเวลาแต่ไม่เล่น (ไฟล์วิดีโอถูกบีบอัด)"
 }
