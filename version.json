@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "2.10",
+  "versionCode": 39,
+  "versionName": "2.10.1",
   "apkUrl": "https://github.com/Blackzth11/bkz-tv-app/releases/latest/download/BKZ_TV.apk",
-  "notes": "- 📺 ซีรีส์: แถบใหม่ SERIES 2026 / SERIES All 1-5 (อัปเดตตามลิสต์ต้นทาง)\n- 🔞 หนังผู้ใหญ่: เปิดได้ที่ ⚙ ตั้งค่า (ต้องใส่รหัส) แถบ 18+ ย้ายมาไว้ที่นี่"
+  "notes": "- 📺 ซีรีส์: รวมเป็นแถบเดียว SERIES ข้างในเป็นโฟลเดอร์ SERIES 2026 / All 1-5"
 }
