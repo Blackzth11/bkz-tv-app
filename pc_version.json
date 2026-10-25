@@ -1,6 +1,6 @@
 {
-  "version": "1.4",
+  "version": "1.4.1",
   "url": "https://github.com/Blackzth11/bkz-tv-app/releases/download/pc/BB24HD-VIP_PC.exe",
-  "sha256": "523f53fd61ef69b535d7b0b1639608717927e7ec0d7d9621ec1d4c4bce147f7a",
-  "notes": "- 📺 ซีรีส์: แถบใหม่ SERIES 2026 / SERIES All 1-5 (อัปเดตตามลิสต์ต้นทาง)\n- 🔞 หนังผู้ใหญ่: เปิดได้ที่ ⚙ ตั้งค่า (ต้องใส่รหัส) แถบ 18+ ย้ายมาไว้ที่นี่"
+  "sha256": "1ac187621ea0da8fbf1969204a056e85c933125b1acf54a66b9b4f67799a955c",
+  "notes": "- 📺 ซีรีส์: รวมเป็นแถบเดียว SERIES ข้างในเป็นโฟลเดอร์ SERIES 2026 / All 1-5"
 }
