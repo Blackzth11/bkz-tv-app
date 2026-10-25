@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "2.10.2",
+  "versionCode": 41,
+  "versionName": "2.10.3",
   "apkUrl": "https://github.com/Blackzth11/bkz-tv-app/releases/latest/download/BKZ_TV.apk",
-  "notes": "- แก้: บางกล่อง (แรมน้อย) เด้งออกหลังใส่รหัส\n- รองรับ Android รุ่นเก่าดีขึ้น"
+  "notes": "- แก้แอปเด้งบนกล่อง Android 9 และรุ่นเก่ากว่า (หน้าโหลด)\n- แก้กรอบเลือกการ์ดและตัวอัปเดตบน Android 5–6"
 }
