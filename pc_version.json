@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "url": "https://github.com/Blackzth11/bkz-tv-app/releases/download/pc/BB24HD-VIP_PC.exe",
-  "sha256": "a037dc991f845bc374b5a4c20ea36ce415e6a76213bb9173464d667cb019c85b",
-  "notes": "- แก้: บางเรื่องขึ้นเวลาแต่ไม่เล่น (ไฟล์วิดีโอถูกบีบอัด)"
+  "sha256": "e4d718fc90ea056a04d0dfaf4ff02196d6744ffce0e1be3ae834118a9638a047",
+  "notes": "- ดูอยู่แล้วสัญญาณหลุด/ภาพค้าง โปรแกรมต่อใหม่เองและเล่นต่อจากเดิม"
 }
