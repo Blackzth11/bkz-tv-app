@@ -1,6 +1,6 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.4",
   "url": "https://github.com/Blackzth11/bkz-tv-app/releases/download/pc/BB24HD-VIP_PC.exe",
-  "sha256": "e4d718fc90ea056a04d0dfaf4ff02196d6744ffce0e1be3ae834118a9638a047",
-  "notes": "- ดูอยู่แล้วสัญญาณหลุด/ภาพค้าง โปรแกรมต่อใหม่เองและเล่นต่อจากเดิม"
+  "sha256": "0de3302629f214eda82dea17d70352b6ecc4a7f58ee5a82a48315fe2c1a4552b",
+  "notes": "- แก้: ซีรีส์แถบ SERIES (SERIES 2026 / All 1-5) เปิดดูไม่ได้\n- ค้นหาเจอเรื่องในโฟลเดอร์ SERIES แล้ว (ดูต่อ / รายการของฉัน ด้วย)"
 }
