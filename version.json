@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "2.10.5",
+  "versionCode": 44,
+  "versionName": "2.10.6",
   "apkUrl": "https://github.com/Blackzth11/bkz-tv-app/releases/latest/download/BKZ_TV.apk",
-  "notes": "- ค้นหาเจอเรื่องในโฟลเดอร์ SERIES (SERIES 2026 / All 1-5) และสารคดีแล้ว\n- รายการของฉัน ขึ้นเรื่องที่เก็บไว้จากโฟลเดอร์ด้วย"
+  "notes": "- ซีรีส์: แถบ NETFLIX อยู่แถบแรก"
 }
