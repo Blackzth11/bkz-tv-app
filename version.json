@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "2.10.6",
+  "versionCode": 45,
+  "versionName": "2.10.7",
   "apkUrl": "https://github.com/Blackzth11/bkz-tv-app/releases/latest/download/BKZ_TV.apk",
-  "notes": "- ซีรีส์: แถบ NETFLIX อยู่แถบแรก"
+  "notes": "- ⏩ ข้ามอินโทร / ตอนถัดไปก่อนจบ\n- ⭐ มีตอนใหม่ในรายการของฉัน\n- ⚠ แจ้งลิงก์เสีย\n- 🔊 จำภาษาเสียง/ซับที่เลือก\n- ⚽ บอลสดอัปเดตเอง\n- 🎤 ค้นหาด้วยเสียง\n- 👥 ดูกับเพื่อนบนทีวี"
 }
