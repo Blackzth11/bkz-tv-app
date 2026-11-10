@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "2.10.8",
+  "versionCode": 47,
+  "versionName": "2.10.9",
   "apkUrl": "https://github.com/Blackzth11/bkz-tv-app/releases/latest/download/BKZ_TV.apk",
-  "notes": "- เอาปุ่มข้ามอินโทรออก (ข้ามผิดที่)\n- กล่องตอนถัดไปก่อนจบยังอยู่เหมือนเดิม"
+  "notes": "- 📱 หนังสั้นแนวตั้ง: แถบใหม่ Shopละคร (เล่นผ่าน YouTube)\n- ⭐ รายการของฉัน / หน้าแรก เปิดเร็วขึ้นมาก เลื่อนลื่นขึ้น"
 }
