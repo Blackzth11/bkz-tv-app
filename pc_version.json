@@ -1,6 +1,6 @@
 {
-  "version": "1.4.9",
+  "version": "1.4.10",
   "url": "https://github.com/Blackzth11/bkz-tv-app/releases/download/pc/BB24HD-VIP_PC.exe",
-  "sha256": "4232f4dfb4e9f6044c2b632c388963608f5d01a7c31f6d9b02a2d72655ac8d13",
-  "notes": "- 📱 Shopละคร: ซับ YouTube ปิดเป็นค่าเริ่มต้น (เปิดได้ที่ปุ่ม CC ของ YouTube)"
+  "sha256": "4a5ea91c420557aecbf14bc1de5b11baacf0ee33227c6cacd1afd6060a43ae78",
+  "notes": "- 📱 Shopละคร: แก้ซับ YouTube ยังขึ้น (ตอนนี้ปิดเป็นค่าเริ่มต้นจริง เปิดได้ที่ปุ่ม CC)"
 }
