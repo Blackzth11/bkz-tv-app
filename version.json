@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "2.10.9",
+  "versionCode": 48,
+  "versionName": "2.10.10",
   "apkUrl": "https://github.com/Blackzth11/bkz-tv-app/releases/latest/download/BKZ_TV.apk",
-  "notes": "- 📱 หนังสั้นแนวตั้ง: แถบใหม่ Shopละคร (เล่นผ่าน YouTube)\n- ⭐ รายการของฉัน / หน้าแรก เปิดเร็วขึ้นมาก เลื่อนลื่นขึ้น"
+  "notes": "- 📱 Shopละคร: ซับ YouTube ปิดเป็นค่าเริ่มต้น\n- กดปุ่ม MENU ระหว่างดู = เปิด/ปิดซับไทย"
 }
