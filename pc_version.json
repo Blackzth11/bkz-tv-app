@@ -1,6 +1,6 @@
 {
-  "version": "1.4.12",
+  "version": "1.4.13",
   "url": "https://github.com/Blackzth11/bkz-tv-app/releases/download/pc/BB24HD-VIP_PC.exe",
-  "sha256": "431d929069dfdee3e4b46e1e45b1ec29df7aa1c6e4ff6acfe19d5b01e486f718",
-  "notes": "- 🎭 เมนูใหม่ หนังสั้นตามแนว (แก้แค้น / โรแมนติก / ปลอมตัว / CEO / แฟนตาซี / ย้อนยุค ฯลฯ)"
+  "sha256": "946bcb3cd6e1fb15aaf2df8b5ee89999f75e70afff27e7fef2c935196fadf46f",
+  "notes": "- 📱 หนังสั้นแนวตั้ง: แถบตามประเภทแบบเว็บ zith เอาเมนูหนังสั้นตามแนวออก\n- แถบ rongyok กลับมาเองเมื่อเว็บใช้ได้"
 }
