@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "2.10.10",
+  "versionCode": 49,
+  "versionName": "2.10.11",
   "apkUrl": "https://github.com/Blackzth11/bkz-tv-app/releases/latest/download/BKZ_TV.apk",
-  "notes": "- 📱 Shopละคร: ซับ YouTube ปิดเป็นค่าเริ่มต้น\n- กดปุ่ม MENU ระหว่างดู = เปิด/ปิดซับไทย"
+  "notes": "- 📱 หนังสั้นแนวตั้ง: เพิ่มแถบ FreeReels / ShortMax / NetShort / อื่นๆ (รวมกว่า 2,800 เรื่อง)\n- ช่วงที่ rongyok ใช้ไม่ได้ ซ่อนแถบของเขาเอง และเรื่องที่มีในแถบอื่นเล่นจากแหล่งสำรองให้"
 }
